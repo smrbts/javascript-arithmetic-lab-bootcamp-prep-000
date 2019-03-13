@@ -1,4 +1,5 @@
-var a,b;
+var a=[];
+var b=[];
 
 function add()
 {
