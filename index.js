@@ -1,4 +1,4 @@
 function add()
 {
-  5+10;
+  a+b;
 }
