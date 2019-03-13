@@ -30,12 +30,12 @@ function dec(n)
 
 function makeInt(n)
 {
-  parseInt(n,10);
+  return parseInt(n,10);
 }
 
 function preservDecimal(n)
 {
-  parseFloat(n);
+  return parseFloat(n);
 }
 
 
